@@ -69,6 +69,11 @@
     .content__left_text {
         text-align: center;
     }
+    
+    .footer__content {
+        flex-direction: column;
+        gap: 30px;
+    }
 }
 
 @media (max-width:576px) {

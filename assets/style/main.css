@@ -19,6 +19,10 @@ ul {
     list-style: none;
 }
 
+img {
+    user-select: none;
+}
+
 .container {
     width: 100%;
     max-width: 1140px;
@@ -30,7 +34,7 @@ ul {
     padding: 10px 0;
     position: relative;
 }
-
+ 
 .nav__content {
     display: flex;
     align-items: center;
