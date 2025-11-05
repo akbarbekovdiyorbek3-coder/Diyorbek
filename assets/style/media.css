@@ -75,6 +75,10 @@
     .nav__btn {
         display: flex;
     }
+    
+    .gallery__content-top {
+        flex-direction: column;
+    }
 
     .nav__list {
         position: absolute;
